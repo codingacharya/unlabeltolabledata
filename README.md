@@ -4,4 +4,4 @@ cd unlabeltolabledata
 
 pip install streamlit pandas numpy scikit-learn matplotlib
 
-streamlit run unlabeltolabledata.py
+streamlit run unlabeltolabeldata.py
